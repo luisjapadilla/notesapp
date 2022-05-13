@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117128382044",
+    "project_id": "mynotes-nycto",
+    "storage_bucket": "mynotes-nycto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117128382044:android:576055d24f08218747c899",
+        "android_client_info": {
+          "package_name": "com.nyctobits.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117128382044-9nir0r3vtlqh4dgpqbiv17jbjvi773cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYyT5QTl5pb7d2Q_XtwyuTT11ER7S0_Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117128382044-9nir0r3vtlqh4dgpqbiv17jbjvi773cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
